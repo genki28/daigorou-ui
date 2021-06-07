@@ -1,3 +1,4 @@
+import { addDecorator } from '@storybook/vue3'
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -8,3 +9,5 @@ export const parameters = {
     },
   },
 }
+
+// NOTE: 共通の style を呼び出す
