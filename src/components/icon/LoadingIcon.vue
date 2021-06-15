@@ -13,7 +13,7 @@
 .container {
   width: 1000px;
   height: 350px;
-  background-image: linear-gradient(135deg, #f67751, #4346f0 100%);;
+  background-image: linear-gradient(135deg, #f67751, #4346f0 100%);
 }
 .btn {
   position: relative;
