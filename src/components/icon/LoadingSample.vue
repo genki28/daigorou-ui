@@ -79,6 +79,10 @@
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+  // 100% {
+  //   -webkit-transform: rotate(180deg);
+  //   transform: rotate(180deg);
+  // }
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -92,6 +96,8 @@
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
+    // -webkit-transform: rotate(180deg);
+    // transform: rotate(180deg);
   }
 }
 </style>
