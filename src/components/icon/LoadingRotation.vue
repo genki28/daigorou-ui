@@ -35,30 +35,30 @@
   0% {
     box-shadow: 0 -0.83em 0 -0.4em;
   }
-  // 12.5% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 25% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 37.5% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 50% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 62.5% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 75% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 87.5% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
-  // 100% {
-  //   box-shadow: 0 -0.83em 0 -0.4em;
-  // }
+  12.5% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  25% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  37.5% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  50% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  62.5% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  75% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  87.5% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
+  100% {
+    box-shadow: 0 -0.83em 0 -0.4em;
+  }
 }
 
 @keyframes round {
