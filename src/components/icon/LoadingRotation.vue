@@ -28,7 +28,7 @@
   position: relative;
   top: 30%;
   -webkit-animation: round 2s infinite ease;
-  animation: cirlce 1s infinite ease, round 1s infinite ease;
+  animation: cirlce 2s infinite ease, round 2s infinite ease;
 }
 
 @keyframes cirlce {
