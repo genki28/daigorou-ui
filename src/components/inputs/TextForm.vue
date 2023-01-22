@@ -11,15 +11,14 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from "vue";
 
 export default defineComponent({
   setup() {
-    
+    console.log("setup");
   },
-})
+});
 </script>
-
 
 <style lang="scss" scoped>
 $english-breakfast: #3f0f0f;
@@ -46,25 +45,25 @@ $black-metal: #060707;
   width: 150px;
   height: 150px;
 
-    > .label {
-      text-align: left;
-      display: block;
-      font-size: 14px;
-      color: white;
-    }
+  > .label {
+    text-align: left;
+    display: block;
+    font-size: 14px;
+    color: white;
+  }
 
-    > .form {
-      padding-left: 10px;
-      font-size: 20px;
-      border: none;
-      border-radius: 5px;
-      color: $black-metal;
-    }
+  > .form {
+    padding-left: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    color: $black-metal;
+  }
 
-    > .form:focus {
-      box-shadow: 3px 3px rgba(0, 0, 0, .4), -1px 0 .4px rgba(0, 0, 0, .4);
-      border: solid 2px #666;
-      outline: none;
-    }
+  > .form:focus {
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.4), -1px 0 0.4px rgba(0, 0, 0, 0.4);
+    border: solid 2px #666;
+    outline: none;
+  }
 }
 </style>

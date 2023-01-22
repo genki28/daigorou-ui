@@ -10,7 +10,7 @@
   margin: 0 auto;
   width: 350px;
   height: 350px;
-  background-color: #80DEEA;
+  background-color: #80deea;
   margin: 76px auto;
   position: relative;
   top: 30%;

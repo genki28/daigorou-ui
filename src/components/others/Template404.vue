@@ -1,7 +1,7 @@
 <template>
   <div class="notfound-container">
     <div class="title">404ページ</div>
-  </div>  
+  </div>
 </template>
 
 <style lang="scss" scoped>

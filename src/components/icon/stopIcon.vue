@@ -1,7 +1,7 @@
 <template>
   <div class="icon-container">
     <p class="icon"></p>
-  </div>  
+  </div>
 </template>
 
 <style lang="scss" scoped>
@@ -12,12 +12,12 @@ $deep-space: #3e4144;
 .icon-container {
   width: 410px;
   height: 268px;
-  
+
   > .icon {
     width: 0px;
     border-right: 50px solid transparent;
     border-bottom: 50px solid #b2ce54;
-    border-left: 50px solid transparent; 
+    border-left: 50px solid transparent;
     // width: 40px;
     // height: 34px;
     // position: relative;

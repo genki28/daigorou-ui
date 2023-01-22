@@ -1,7 +1,7 @@
 <template>
   <div class="demo-input">
     <h1 class="title">タイトル</h1>
-  </div>  
+  </div>
 </template>
 
 <style lang="scss" scoped>
